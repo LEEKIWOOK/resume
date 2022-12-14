@@ -1,16 +1,19 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-
-# jazznotes.io
-- project: jazznotes.io
+- project: Antibody epitope prediction using Deep Graph Convolutional Networks
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  duration: 2022 &mdash; Present
+  url: https://github.com/LEEKIWOOK/ABepitope2
+  keywords: Graph neural networks, Oversmoothing, Neighborhood explosion 
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Protein representation using Multi-Graph Networks
+  role: Founder & Primary Developer
+  duration: 2022 &mdash; 2022
+  url: https://github.com/LEEKIWOOK/ABepitope
+  keywords: Graph neural networks, 3D mesh, Segmentation
+ 
+- project: DACO, Word2vec model based Crispr cas9/cas12a On-target efficiency prediction
+  role: Founder & Primary Developer
+  duration: 2022 &mdash; 2022
+  url: https://github.com/LEEKIWOOK/DACO
+  keywords: Multichannel CNN, Word2vec, Attention

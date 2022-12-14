@@ -1,19 +1,18 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# 과장
+- company: 서지넥스
+  position: AI팀/과장
+  duration: May, 2022 &mdash; Nov, 2022
+  summary: 딥러닝을 이용한 항원/항체 예측 방법 개발
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# 과장
+- company: 지플러스 생명과학
+  position: BioAI/선임연구원
+  duration: Jun, 2019 &mdash; May, 2022
+  summary: 딥러닝을 이용한 유전자 가위 예측 방법 개발
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# 연구원
+- company: 삼성유전체연구소
+  position: QC,Sequencing팀/연구원
+  duration:   Jun, 2016  &mdash; Jun, 2019
+  summary: 기계학습 및 딥러닝 을 활용한 유전체 데이터 분석, 임상팀, 실험팀과의 협력을 통한 DB 및 프로그램 개발

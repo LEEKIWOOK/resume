@@ -1,13 +1,14 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Ph.D. candidate in Integrated Medical Science
+  uni: 성균관대학교
+  year: 2017 &mdash; Present
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master's degree in Computer Science
+  uni: 숭실대학교
+  year: 2014 &mdash; 2016
+  award: 기계학습을 이용한 신규변이 필터링 기법 
+  
+- degree: Bachelor's degree in Computer Science
+  uni: 숭실대학교
+  year: 2006 &mdash; 2014
+  award: 영상 변환을 이용한 보안 감시 시스템 및 그 방법, 특허 출원 번호 (10-2013-0117905)
