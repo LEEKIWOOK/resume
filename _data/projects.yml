@@ -4,16 +4,16 @@
   role: Founder & Primary Developer
   duration: 2022 &mdash; Present
   url: https://github.com/LEEKIWOOK/ABepitope2
-  keywords: Graph neural networks, Oversmoothing, Neighborhood explosion 
+  description: Graph neural networks, Oversmoothing, Neighborhood explosion 
 
 - project: Protein representation using Multi-Graph Networks
   role: Founder & Primary Developer
   duration: 2022 &mdash; 2022
   url: https://github.com/LEEKIWOOK/ABepitope
-  keywords: Graph neural networks, 3D mesh, Segmentation
+  description: Graph neural networks, 3D mesh, Segmentation
  
 - project: DACO, Word2vec model based Crispr cas9/cas12a On-target efficiency prediction
   role: Founder & Primary Developer
   duration: 2022 &mdash; 2022
   url: https://github.com/LEEKIWOOK/DACO
-  keywords: Multichannel CNN, Word2vec, Attention
+  description: Multichannel CNN, Word2vec, Attention
