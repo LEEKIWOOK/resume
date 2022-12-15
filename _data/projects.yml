@@ -6,7 +6,7 @@
   url: https://github.com/LEEKIWOOK/ABepitope2
   description: Graph neural networks, Oversmoothing, Neighborhood explosion 
 
-- project: Protein representation using Multi-Graph Networks
+- project: Protein representation using Multiscale Graph Networks
   role: Founder & Primary Developer
   duration: 2022 &mdash; 2022
   url: https://github.com/LEEKIWOOK/ABepitope
@@ -16,4 +16,4 @@
   role: Founder & Primary Developer
   duration: 2022 &mdash; 2022
   url: https://github.com/LEEKIWOOK/DACO
-  description: Multichannel CNN, Word2vec, Attention
+  description:  CNN, NLP
